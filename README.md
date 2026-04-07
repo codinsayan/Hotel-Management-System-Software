@@ -153,31 +153,6 @@ Hurrah! You are all set. Now, You are ready to deploy the software in your syste
 (c) MIT License
 
 
-## Contact Us
-
-Drop an email on  
-sayanghosh1427@gmail.com,   
-purabjana@gmail.com,  
-samriddhakarmakar56@gmail.com
-
-## Contributing
-
-Contributions are always welcome!
-
-See [`contributing.md`](https://github.com/SayanInf/Hotel_Management_System/blob/main/Contributing.md) for ways to get started.
-
-Please adhere to this project's [`code of conduct`](https://github.com/SayanInf/Hotel_Management_System/blob/main/CODE_OF_CONDUCT.md).
-
-
-## Support
-
-For support, email
-  
-sayanghosh1427@gmail.com,  
-purabjana@gmail.com,  
-samriddhakarmakar56@gmail.com
-
-
 ## Issue Templates
 
 you can use these templates to mention an issue... 
